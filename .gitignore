@@ -1,0 +1,26 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Downloaded research datasets
+data/
+
+# Generated simulation reports
+reports/
+
+# Local editor settings
+.vscode/
