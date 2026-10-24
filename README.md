@@ -8,6 +8,25 @@ An engineering decision-support prototype designed to analyze electric vehicle c
 
 The project combines historical charging data, machine learning, queue simulation, electrical power constraints, and interactive dashboards to support preliminary charging-site planning.
 
+
+## Application Preview
+
+### EV Charging Infrastructure Expansion Planner
+
+![EV Charging Expansion Planner](screenshots/expansion_planner.png)
+
+The interactive dashboard helps evaluate:
+
+- Physical charging units and connector requirements
+- Customer waiting times and service quality
+- Site grid-power limitations
+- Charging infrastructure expansion scenarios
+- Preliminary capacity recommendations
+
+Results are based on illustrative engineering assumptions
+and synthetic charging-demand simulations.
+
+
 ## Engineering Problem
 
 Charge Point Operators (CPOs) must decide:
